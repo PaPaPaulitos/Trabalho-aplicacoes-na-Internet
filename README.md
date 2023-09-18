@@ -36,6 +36,8 @@ Você pode ver o diagrama melhor [Clicando aqui](https://whimsical.com/a1-aplica
 
 ### Pagina Inicial
 
+Você pode ver melhor as telas do evento [Clicando aqui](https://www.figma.com/file/AMb6NqrFlXpZQ2nmInx25k/A1_aplica%C3%A7%C3%B5es-na-internet?type=design&node-id=9%3A27&mode=design&t=rliAOO6vqf8c0NGC-1)
+
 ![Página Inicial](./Imagens/Pagina%20Inicial.svg)
 
 A página inicial será onde ficará exposto os eventos.
