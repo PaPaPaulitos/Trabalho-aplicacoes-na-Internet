@@ -15,7 +15,11 @@ Um grupo de 4 amigos se juntou para criar uma Startup de eventos para todos os t
 - React
 - Bootstrap
 
----
+## Bibliotecas
+- react
+- react-boostrap
+- styled-components
+- react-route-dom
 
 ## Ferramentas de documentação
 

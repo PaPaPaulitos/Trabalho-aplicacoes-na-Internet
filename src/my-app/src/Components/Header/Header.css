@@ -1,11 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 
 .navbar{
     height: 72px;
     background-color: #B3B3B3;
     display: flex;
     justify-content: center;
-    font-family: 'Roboto', sans-serif;
     padding: 0;
 }
 
