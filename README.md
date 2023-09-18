@@ -81,3 +81,9 @@ A página inicial será onde ficará exposto os eventos.
 ![Descrição do Evento](./Imagens/Descrição_do_Evento.svg)
 
 ---
+
+## Referencias
+
+https://create-react-app.dev/docs/getting-started
+
+https://create-react-app.dev/docs/adding-typescript/
