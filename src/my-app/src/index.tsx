@@ -8,12 +8,14 @@ import Home from './Routes/Home';
 import Dashboard from './Routes/Dashboard';
 import CreateEvent from './Routes/CreateEvent';
 import EventDes from './Routes/EventDes';
+import ErrorPage from './Routes/ErrorPage';
 
 
 const router = createBrowserRouter([
   {
     path: '/',
     element: <App/>,
+    errorElement: <ErrorPage/>,
     children: [
       {
         path: '/',
