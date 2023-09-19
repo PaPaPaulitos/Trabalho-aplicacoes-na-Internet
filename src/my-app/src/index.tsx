@@ -3,13 +3,44 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { createBrowserRouter, RouterProvider} from 'react-router-dom';
+import Home from './Routes/Home';
+import Dashboard from './Routes/Dashboard';
+import CreateEvent from './Routes/CreateEvent';
+import EventDes from './Routes/EventDes';
+
+
+const router = createBrowserRouter([
+  {
+    path: '/',
+    element: <App/>,
+    children: [
+      {
+        path: '/',
+        element: <Home/>
+      },
+      {
+        path: '/dashboard',
+        element: <Dashboard/>
+      },
+      {
+        path: '/createevent',
+        element: <CreateEvent/>
+      },
+      {
+        path: '/eventdes',
+        element: <EventDes/>
+      }
+    ]
+  }
+]);
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
 root.render(
   <React.StrictMode>
-    <App />
+    <RouterProvider router={router} />
   </React.StrictMode>
 );
 
