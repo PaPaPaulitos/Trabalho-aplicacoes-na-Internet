@@ -49,7 +49,7 @@ A página inicial será onde ficará exposto os eventos.
 
 - O quadrado preto na *Navbar* é o logo da empresa(ainda a ser definido).
 
-- O fundo preto atrás da pesquisa terá que ser um elemento *Parallax* do Bootstrap.
+- O fundo preto atrás da pesquisa terá que ser um elemento *Carousel* do Bootstrap.
 
 - A página terá um *Grid System* do Bootstrap com 3 colunas, onde os eventos será pegos do **Back-end** via API.
 
@@ -63,7 +63,7 @@ A página inicial será onde ficará exposto os eventos.
 
 ![Login](./Imagens/Login.svg)
 
-- Tem que ser um *form* com *método HTTP Post*
+- Tem que ser um *form* com *método HTTP GET*
 
 ### Dashboard sem Eventos
 
@@ -94,3 +94,5 @@ https://create-react-app.dev/docs/getting-started
 https://create-react-app.dev/docs/adding-typescript/
 
 https://blog.betrybe.com/react/react-bootstrap/#:~:text=O%20recomendado%20para%20utilização%20dos,%27react-bootstrap%2FButton%27%3B
+
+https://www.youtube.com/watch?v=7b42lVMdEjE
