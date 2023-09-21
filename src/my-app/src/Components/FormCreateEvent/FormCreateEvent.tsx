@@ -9,20 +9,36 @@ function FromCreateEvent() {
     return (
         <div className='container'>
             <form action="" method="post">
-                <label htmlFor="createEvent">Nome do Evento:</label>
-                <input type="text" name="nome_evento" id="nome_evento" />
-                <label htmlFor="createEvent">Data do Evento:</label>
-                <input type="date" name="data_evento" id="data_evento" />
-                <label htmlFor="createEvent">Local do Evento:</label>
-                <input type="text" name="local_evento" id="local_evento" />
-                <input type="radio" name="evento_privado" id="evento_privado" value={"sim"} />
-                <label htmlFor="createEvent">Sim</label>
-                <input type="radio" name="evento_privado" id="evento_privado" value={"nao"} />
-                <label htmlFor="createEvent">Não</label>
-                <label htmlFor="createEvent">Descrição do Evento:</label>
-                <textarea name="descricao_evento" id="descricao_evento" cols={30} rows={10}></textarea>
-                <label htmlFor="createEvent">Imagem do Evento:</label>
-                <input type="file" id="image" name="image" placeholder='Escolher Imagem' className="from-control-file"></input>
+                <label htmlFor="createEvent" className='label_form'>Nome do Evento:</label>
+                <br/>
+                <input type="text" name="nome_evento" id="nome_evento" className='text_form' />
+                <br/>
+                <label htmlFor="createEvent" className='label_form' >Data do Evento:</label>
+                <br/>
+                <input type="date" name="data_evento" id="data_evento" className='text_form' />
+                <br/>
+                <label htmlFor="createEvent" className='label_form'>Local do Evento:</label>
+                <br/>
+                <input type="text" name="local_evento" id="local_evento" className='text_form' />
+                <br/>
+                <label htmlFor="createEvent" className='label_form'>Evento é privado?</label>
+                <br/>
+                <div className='radio'>
+                    <input type="radio" name="evento_privado" id="evento_privado" value={"sim"} className='radio_fom' />
+                    <label htmlFor="createEvent" className='label_form'>Sim</label>
+                    <input type="radio" name="evento_privado" id="evento_privado" value={"nao"} className='radio_fom' />
+                    <label htmlFor="createEvent" className='label_form'>Não</label>
+                <br/>
+                </div>
+                <label htmlFor="createEvent" className='label_form'>Descrição do Evento:</label>
+                <br/>
+                <textarea name="descricao_evento" id="descricao_evento" cols={30} rows={10} className='area_form'></textarea>
+                <br/>
+                <label htmlFor="createEvent" className='label_form'>Imagem do Evento:</label>
+                <br/>
+                <input type="file" id="image" name="image" placeholder='Escolher Imagem' className="fbtn btn-primary"></input>
+                <br/>
+                <br/>
                 <input type="submit" className="btn btn-primary" value="Criar Evento"></input>
             </form>
         </div>
@@ -30,3 +46,5 @@ function FromCreateEvent() {
 }
 
 export default FromCreateEvent;
+
+ 
