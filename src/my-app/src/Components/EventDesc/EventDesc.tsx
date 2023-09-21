@@ -23,6 +23,9 @@ function EventDesc() {
                     <p className=""><Calendar2CheckFill/>DATA</p>
                     <p className="events-participants"><PeopleFill/>QUANTIDADE DE PARTICIPANTES</p>
                     <p className=""><ChatSquareTextFill/>DESCRICAO</p>
+                    <form action="" method="get">
+                        <input type="submit" className="btn btn-primary" value="Participar do Evento"></input>
+                    </form>
                 </div>
 
             </div>
