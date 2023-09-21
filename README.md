@@ -20,7 +20,7 @@ Um grupo de 4 amigos se juntou para criar uma Startup de eventos para todos os t
 - react-boostrap
 - react-router-dom
 - styled-components
-
+- react-bootstrap-icons
 
 ## Ferramentas de documentação
 

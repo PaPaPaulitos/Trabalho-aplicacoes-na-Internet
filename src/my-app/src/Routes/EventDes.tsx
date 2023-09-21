@@ -1,12 +1,12 @@
 import React from 'react';
 import logo from './logo.svg';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Header from '../Components/Header/Header';
+import EventDesc from '../Components/EventDesc/EventDesc';
 
 
 function EventDes() {
   return (
-    <p>Event Description</p>
+    <EventDesc/>
   );
 }
 
