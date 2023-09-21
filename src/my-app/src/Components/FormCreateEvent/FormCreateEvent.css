@@ -36,15 +36,6 @@
     }
 }
 
-.text_form{
-    height: 3.5vh;
-    width: 25vh;
-    border-radius: 30px;
-    border: 0px solid;
-    text-align: center;
-    animation: changeColor 1s linear alternate;
-}
-
 
 .area_form{
     height: 7vh;
@@ -56,6 +47,24 @@
 }
 
 
+input[type="date"]{
+    height: 3.5vh;
+    width: 25vh;
+    border-radius: 30px;
+    border: 0px solid;
+    text-align: center;
+    animation: changeColor 1s linear alternate;
+}
+
+.text_form{
+    height: 3.5vh;
+    width: 25vh;
+    border-radius: 30px;
+    border: 0px solid;
+    text-align: center;
+    animation: changeColor 1s linear alternate;
+}
+
 input[type="radio"]{
     margin-left: 10px;
     margin-right: 10px;
@@ -63,6 +72,12 @@ input[type="radio"]{
     margin-bottom: 10px;
     background-color: #000;
 }
+
 input[type="radio"]:checked{
     background-color: #000;
 }
+
+input[type="file"]{
+    display: none;
+}
+
