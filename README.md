@@ -96,3 +96,5 @@ https://create-react-app.dev/docs/adding-typescript/
 https://blog.betrybe.com/react/react-bootstrap/#:~:text=O%20recomendado%20para%20utilização%20dos,%27react-bootstrap%2FButton%27%3B
 
 https://www.youtube.com/watch?v=7b42lVMdEjE
+
+https://react-icons.github.io/react-icons/icons?name=bs
