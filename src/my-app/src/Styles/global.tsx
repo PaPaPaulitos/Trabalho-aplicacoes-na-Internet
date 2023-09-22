@@ -16,5 +16,4 @@ export default createGlobalStyle`
   }
 
 
-  // Adicione quais mais regras desejar!
 `;

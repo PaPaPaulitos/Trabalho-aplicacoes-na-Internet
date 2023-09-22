@@ -11,18 +11,18 @@ import { ChatSquareTextFill,
 
 function EventDesc() {
     return (
-        <div className="container">
+        <div className="container_see_more">
             <div className="row">
                 <div className="col">
 
                 </div>
                 <div className="col">
                     <h1>EVENTO</h1>
-                    <p className="event-city"><GeoAltFill/>CIDADE DO EVENTO</p>
-                    <p className="event-owner"><EmojiSmileUpsideDown/>DONO DO EVENTO</p>
-                    <p className=""><Calendar2CheckFill/>DATA</p>
-                    <p className="events-participants"><PeopleFill/>QUANTIDADE DE PARTICIPANTES</p>
-                    <p className=""><ChatSquareTextFill/>DESCRICAO</p>
+                    <p className="event_p"><GeoAltFill/>CIDADE DO EVENTO</p>
+                    <p className="event_p"><EmojiSmileUpsideDown/>DONO DO EVENTO</p>
+                    <p className="event_p"><Calendar2CheckFill/>DATA</p>
+                    <p className="event_p"><PeopleFill/>QUANTIDADE DE PARTICIPANTES</p>
+                    <p className="event_p"><ChatSquareTextFill/>DESCRICAO</p>
                     <form action="" method="get">
                         <input type="submit" className="btn btn-primary" value="Participar do Evento"></input>
                     </form>
