@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center; /* Alinha horizontalmente ao centro */
+    align-items: center; /* Alinha verticalmente ao centro */
+    height: 100vh; /* Altura total da janela de visualização */
+    margin: 0; /* Remova margens padrão do corpo */
+  }
+
+.long_div{
+    width: 75vh; /* Largura da div */
+    height: 35vh; /* Altura da div */
+    background-color: #B3B3B3; /* Cor de fundo da div */
+    border-radius: 15px;
+    padding: 16px;
+}
+
+.form-control{
+    padding: 0.5rem 0.5rem;
+    margin-bottom: 32px;
+}
+
+.login-div{
+    margin-left: 64px;
+}
+

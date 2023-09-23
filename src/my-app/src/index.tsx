@@ -9,6 +9,8 @@ import Dashboard from './Routes/Dashboard';
 import CreateEvent from './Routes/CreateEvent';
 import EventDes from './Routes/EventDes';
 import ErrorPage from './Routes/ErrorPage';
+import Login from './Routes/Login';
+import Alternative from './Alternative'
 
 
 const router = createBrowserRouter([
@@ -34,6 +36,21 @@ const router = createBrowserRouter([
         element: <EventDes/>
       }
     ]
+  },
+  {
+    path: '/login',
+    element: <Alternative/>,
+    errorElement: <ErrorPage/>,
+    children: [
+      {
+        path: '/login',
+        element: <Login/>
+      }
+    ]
+  },
+  {
+    path: '*',
+    element: <ErrorPage/>
   }
 ]);
 
