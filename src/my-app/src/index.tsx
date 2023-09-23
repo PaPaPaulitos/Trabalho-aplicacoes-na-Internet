@@ -11,6 +11,7 @@ import EventDes from './Routes/EventDes';
 import ErrorPage from './Routes/ErrorPage';
 import Login from './Routes/Login';
 import Alternative from './Alternative'
+import Register from './Routes/Register';
 
 
 const router = createBrowserRouter([
@@ -38,13 +39,17 @@ const router = createBrowserRouter([
     ]
   },
   {
-    path: '/login',
+    path: '/',
     element: <Alternative/>,
     errorElement: <ErrorPage/>,
     children: [
       {
         path: '/login',
         element: <Login/>
+      },
+      {
+        path: '/register',
+        element: <Register/>
       }
     ]
   },

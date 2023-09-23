@@ -9,7 +9,7 @@ import './Login.css';
 function Login() {
     return (
         <div className='long_div'>
-            <form>
+            <form action='post'>
                 <div className="form-group">
                     <input type="text" className="form-control" id="formGroupExampleInput" placeholder="Email"></input>
                 </div>
