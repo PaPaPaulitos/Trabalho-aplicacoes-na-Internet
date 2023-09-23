@@ -6,7 +6,10 @@ import EventDesc from '../Components/EventDesc/EventDesc';
 
 function EventDes() {
   return (
-    <EventDesc/>
+    <div>
+      <EventDesc/>
+    </div>
+    
   );
 }
 

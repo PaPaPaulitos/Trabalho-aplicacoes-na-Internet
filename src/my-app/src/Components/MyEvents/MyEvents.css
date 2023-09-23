@@ -1,0 +1,21 @@
+.dashbord_p{
+    margin-top: 3vh;
+    margin-left: 16vh;
+    text-align: left;
+}
+
+h2{
+    margin-top: 3vh;
+    margin-left: 16vh;
+    text-align: left;
+}
+
+.dashbord_link{
+    text-decoration: none;
+    color: #756E6E;
+}
+
+.dashbord_link:hover{
+    text-decoration: none;
+    color: #5C5656;
+}
