@@ -16,11 +16,7 @@ function Parallax() {
             </ol>
             <div className="carousel-inner">
                 <div className="carousel-item active">
-<<<<<<< HEAD
                     <img className="paralaximage d-block w-100 img-fluid" src={img} alt="Evento" />
-=======
-                <img className="d-block w-100" src={img} alt="Evento" />
->>>>>>> 2548042fdcffcedbb622df75166f05292a7c7813
                     <div className="carousel-caption d-none d-md-block">
                         <form className='form' action="" method="get">
                             <input className='search' type="text" name="search" id="search" placeholder="Digite Aqui..."></input>
