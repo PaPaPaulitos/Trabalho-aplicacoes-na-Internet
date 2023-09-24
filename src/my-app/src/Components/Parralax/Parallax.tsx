@@ -11,11 +11,11 @@ function Parallax() {
         <div id="carouselExampleSlidesOnly" className="carousel slide" data-ride="carousel">
             <div className="carousel-inner">
                 <div className="carousel-item active">
-                    <img className="d-block w-100" src={img} alt="Evento" />
+                    <img className="paralaximage d-block w-100 img-fluid" src={img} alt="Evento" />
                     <div className="carousel-caption d-none d-md-block">
                         <form className='form' action="" method="get">
-                            <input className='search' type="text" name="search" id="search" placeholder="Digite Aqui..."/>
-                            <input className='submit' type="submit" value="Pesquisar" />
+                            <input className='search' type="text" name="search" id="search" placeholder="Digite Aqui..."></input>
+                            <input className='submit' type="submit" value="Pesquisar"></input>
                         </form>
                     </div>
                 </div>

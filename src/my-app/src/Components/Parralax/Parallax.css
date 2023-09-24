@@ -12,6 +12,12 @@
     height: 100%; 
 }
 
+.paralaximage{
+    height: 30vh;
+    object-fit: cover;
+
+}
+
 @keyframes changeColor {
     0% {
       color: #e5e5e5; /* Cor inicial do texto */
