@@ -5,7 +5,7 @@
 - Dê commit no Repósitorio
 
 ```bash
-https://github.com/PaPaPaulitos/Trabalho-aplicacoes-na-Internet.git
+git clone https://github.com/PaPaPaulitos/Trabalho-aplicacoes-na-Internet.git
 ```
 
 - Entre no diretório
