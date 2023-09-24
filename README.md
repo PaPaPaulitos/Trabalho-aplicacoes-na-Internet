@@ -11,7 +11,7 @@ git clone https://github.com/PaPaPaulitos/Trabalho-aplicacoes-na-Internet.git
 - Entre no diretório
 
 ```bash
-\Trabalho-aplicacoes-na-Internet\src\my-app
+\Trabalho-aplicacoes-na-Internet\src\my-app\src
 ```
 
 - Cole o comando:
