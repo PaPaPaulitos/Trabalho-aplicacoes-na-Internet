@@ -15,7 +15,7 @@ function EventDesc() {
         <div className="container_see_more">
             <div className="row">
                 <div className="col">
-                    <img className="event_p" src={img} alt="Imagem do Evento" />
+                    <img className="coldplay" src={img} alt="Imagem do Evento"/>
                 </div>
                 <div className="col">
                     <h1>EVENTO</h1>
