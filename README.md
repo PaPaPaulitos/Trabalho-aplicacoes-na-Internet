@@ -2,19 +2,21 @@
 
 ## Como incializar o projeto
 
-- Dê commit no Repósitorio
+- Abra o terminal no diretório de preferência.
+
+- Clone o Repósitorio no diretório.
 
 ```bash
 git clone https://github.com/PaPaPaulitos/Trabalho-aplicacoes-na-Internet.git
 ```
 
-- Entre no diretório
+- Entre no diretório onde roda a aplicação:
 
 ```bash
-\Trabalho-aplicacoes-na-Internet\src\my-app\src
+cd .\Trabalho-aplicacoes-na-Internet\src\my-app\src
 ```
 
-- Cole o comando:
+- Baixe as dependências:
 
 ```bash
 npm i
