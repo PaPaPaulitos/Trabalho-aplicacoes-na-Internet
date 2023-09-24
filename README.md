@@ -115,12 +115,18 @@ A página inicial será onde ficará exposto os eventos.
 
 ## Referencias
 
-https://create-react-app.dev/docs/getting-started
+- [Getting Stated](https://create-react-app.dev/docs/getting-started)
 
-https://create-react-app.dev/docs/adding-typescript/
 
-https://blog.betrybe.com/react/react-bootstrap/#:~:text=O%20recomendado%20para%20utilização%20dos,%27react-bootstrap%2FButton%27%3B
+- [Adicionando TypeScript ao React](https://create-react-app.dev/docs/adding-typescript/)
 
-https://www.youtube.com/watch?v=7b42lVMdEjE
 
-https://react-icons.github.io/react-icons/icons?name=bs
+- [Utilizando React Bootstrap](https://blog.betrybe.com/react/react-bootstrap/#:~:text=O%20recomendado%20para%20utilização%20dos,%27react-bootstrap%2FButton%27%3B)
+
+
+- [React Router Dom](https://www.youtube.com/watch?v=7b42lVMdEjE)
+
+
+- [React icons](https://react-icons.github.io/react-icons/icons?name=bs)
+
+
