@@ -6,7 +6,8 @@ import "../Styles/errorPage.css"
 function ErrorPage() {
   return (
     <div>
-      <p>Erro 404</p>
+      <h2>Erro 404</h2>
+      <p>Infelizmente a rota que você digitou não pode ser encontrada ou você não tem acesso a ela.</p>
       <GlobalStyle />
     </div>
   );
