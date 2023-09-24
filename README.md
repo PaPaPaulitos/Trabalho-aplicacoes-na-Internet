@@ -1,9 +1,35 @@
 # Aplicações na Internet
 
+## Como incializar o projeto
+
+- Dê commit no Repósitorio
+
+```bash
+https://github.com/PaPaPaulitos/Trabalho-aplicacoes-na-Internet.git
+```
+
+- Entre no diretório
+
+```bash
+\Trabalho-aplicacoes-na-Internet\src\my-app
+```
+
+- Cole o comando:
+
+```bash
+npm i
+```
+
+- Agora inicie usando:
+
+```bash
+npm start
+```
+
+
 ## Minimundo
 
 Um grupo de 4 amigos se juntou para criar uma Startup de eventos para todos os tipos de públicos, sendo esses eventos online e presenciais. A fonte de renda da empresa são os anúncios que estão na plataforma, não sendo cobrado para colocar eventos no site, e os eventos não precisam ser feitos por empresas, só precisam ser feitos pelos usuários cadastrados no site.
-
 
 ---
 
