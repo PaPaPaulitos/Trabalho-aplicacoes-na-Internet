@@ -12,15 +12,15 @@ function Header() {
                 <span className="navbar-toggler-icon"></span>
             </button>
                 <ul className="navbar-nav">
-                <li className="nav-item">
-                    <Link className="nav-link" to='/' >Eventos</Link>
-                </li>
-                <li className="nav-item">
-                    <Link className="nav-link" to='createevent' >Criar Evento</Link>
-                </li>
-                <li className="nav-item">
-                    <Link className="nav-link" to='/login' >Entrar</Link>
-                </li>
+                    <li className="nav-item">
+                        <Link className="nav-link" to='/' >Eventos</Link>
+                    </li>
+                    <li className="nav-item">
+                        <Link className="nav-link" to='createevent' >Criar Evento</Link>
+                    </li>
+                    <li className="nav-item">
+                        <Link className="nav-link" to='/login' >Entrar</Link>
+                    </li>
                 </ul>
     </nav>
     );
