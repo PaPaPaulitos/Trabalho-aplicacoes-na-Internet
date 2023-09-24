@@ -1,0 +1,22 @@
+
+.mensagem{
+    font-weight: bold;
+    padding-top: 30vh;
+    padding-right: 15vh;
+    text-align: center; 
+    justify-content: center;
+}
+
+#erro {
+    color: red;
+}
+
+#numero{
+    color: blue;
+}
+
+.descricao{
+    font-weight: bold;
+    text-align: center; 
+    justify-content: center;
+}
