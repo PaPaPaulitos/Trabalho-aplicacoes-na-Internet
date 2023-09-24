@@ -6,7 +6,7 @@ import { ChatSquareTextFill,
         GeoAltFill,
         PeopleFill,
         Calendar2CheckFill,
-        EmojiSmileUpsideDown
+        EmojiSunglassesFill
 } from 'react-bootstrap-icons';
 import img from '../../img/banda 01.jpg';
 
@@ -20,7 +20,7 @@ function EventDesc() {
                 <div className="col">
                     <h1>EVENTO</h1>
                     <p className="event_p"><GeoAltFill/>CIDADE DO EVENTO</p>
-                    <p className="event_p"><EmojiSmileUpsideDown/>DONO DO EVENTO</p>
+                    <p className="event_p"><EmojiSunglassesFill/>DONO DO EVENTO</p>
                     <p className="event_p"><Calendar2CheckFill/>DATA</p>
                     <p className="event_p"><PeopleFill/>QUANTIDADE DE PARTICIPANTES</p>
                     <p className="event_p"><ChatSquareTextFill/>DESCRICAO</p>
