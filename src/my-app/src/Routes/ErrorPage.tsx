@@ -1,6 +1,6 @@
 import React from 'react';
 import GlobalStyle from '../Styles/global';
-import "..\Styles\ErrorPage.css"
+import "../Styles/errorPage.css"
 
 
 function ErrorPage() {
