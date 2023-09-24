@@ -26,6 +26,10 @@
     margin-top: 10px;
 }
 
+.lateral{
+    margin-right: 250px;
+}
+
 
 @keyframes changeColor {
     0% {
@@ -57,12 +61,22 @@ input[type="date"]{
 }
 
 .text_form{
-    height: 3.5vh;
-    width: 25vh;
+    height: 4.5vh;
+    width: 55vh;
     border-radius: 30px;
     border: 0px solid;
     text-align: center;
     animation: changeColor 1s linear alternate;
+}
+
+#data_evento {
+    height: 4.5vh;
+    width: 55vh;
+}
+
+#descricao_evento {
+    height: 15vh;
+    width: 55vh;
 }
 
 input[type="radio"]{

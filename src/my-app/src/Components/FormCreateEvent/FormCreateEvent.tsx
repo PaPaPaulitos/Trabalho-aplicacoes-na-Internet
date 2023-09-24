@@ -9,15 +9,15 @@ function FromCreateEvent() {
     return (
         <div className='container'>
             <form action="" method="post">
-                <label htmlFor="createEvent" className='label_form'>Nome do Evento:</label>
+                <label htmlFor="createEvent" className='label_form lateral'>Nome do Evento:</label>
                 <br/>
                 <input type="text" name="nome_evento" id="nome_evento" className='text_form' />
                 <br/>
-                <label htmlFor="createEvent" className='label_form' >Data do Evento:</label>
+                <label htmlFor="createEvent" className='label_form lateral' >Data do Evento:</label>
                 <br/>
                 <input type="date" name="data_evento" id="data_evento" className='text_form' />
                 <br/>
-                <label htmlFor="createEvent" className='label_form'>Local do Evento:</label>
+                <label htmlFor="createEvent" className='label_form lateral'>Local do Evento:</label>
                 <br/>
                 <input type="text" name="local_evento" id="local_evento" className='text_form' />
                 <br/>
