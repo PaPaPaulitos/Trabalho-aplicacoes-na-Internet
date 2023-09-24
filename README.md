@@ -1,5 +1,9 @@
 # Aplicações na Internet
 
+## Aplicação rodando
+
+[Clique aqui para ver a aplicação rodando](https://youtu.be/P4swkfj2D_8)
+
 ## Como incializar o projeto
 
 - Abra o terminal no diretório de preferência.
