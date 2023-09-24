@@ -9,9 +9,12 @@ import img from "../../img/evento-image.jpg"
 function Parallax() {
     return (
         <div id="carouselExampleSlidesOnly" className="carousel slide" data-ride="carousel">
+            <ol className= "carousel-indicators">
+                <li data-target="carouselExampleSlidesOnly" data-slide="0"></li>
+            </ol>
             <div className="carousel-inner">
                 <div className="carousel-item active">
-                    <img className="d-block w-100" src={img} alt="Evento" />
+                <img className="d-block w-100" src={img} alt="Evento" />
                     <div className="carousel-caption d-none d-md-block">
                         <form className='form' action="" method="get">
                             <input className='search' type="text" name="search" id="search" placeholder="Digite Aqui..."/>
