@@ -12,7 +12,7 @@ function Parallax() {
             <div className="carousel-inner">
                 <div className="carousel-item active">
                 <img className="paralaximage d-block w-100" src={img} alt="Evento" />
-                    <div className="carousel-caption d-none d-md-block">
+                    <div className="carousel-caption  d-md-block">
                         <form className='form' action="" method="get">
                             <input className='search' type="text" name="search" id="search" placeholder="Digite Aqui..."></input>
                             <input className='submit' type="submit" value="Pesquisar"></input>
