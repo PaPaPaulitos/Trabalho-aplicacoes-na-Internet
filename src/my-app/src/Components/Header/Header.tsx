@@ -11,17 +11,13 @@ function Header() {
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
             </button>
-                <ul className="navbar-nav">
-                    <li className="nav-item">
-                        <Link className="nav-link" to='/' >Eventos</Link>
-                    </li>
-                    <li className="nav-item">
-                        <Link className="nav-link" to='createevent' >Criar Evento</Link>
-                    </li>
-                    <li className="nav-item">
-                        <Link className="nav-link" to='/login' >Entrar</Link>
-                    </li>
-                </ul>
+            <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div className="navbar-nav">
+                            <Link className="nav-item nav-link" to='/' >Eventos</Link>
+                            <Link className="nav-item nav-link" to='createevent' >Criar Evento</Link>
+                            <Link className=" nav-item nav-link" to='/login' >Entrar</Link>
+                </div>
+            </div>
     </nav>
     );
 }
