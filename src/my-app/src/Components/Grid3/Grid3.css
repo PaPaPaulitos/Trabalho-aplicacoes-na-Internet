@@ -5,3 +5,7 @@
 .row{
     padding-left: 10vh;
 }
+
+.col-sm{
+    padding: 0;
+}

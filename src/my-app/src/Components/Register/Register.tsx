@@ -17,10 +17,10 @@ function Register() {
                     <input type="text" className="form-control" id="formGroupExampleInput2" placeholder="Email"></input>
                 </div>
                 <div className="form-group">
-                    <input type="text" className="form-control" id="formGroupExampleInput2" placeholder="Senha"></input>
+                    <input type="password" className="form-control" id="formGroupExampleInput2" placeholder="Senha"></input>
                 </div>
                 <div className="form-group">
-                    <input type="text" className="form-control" id="formGroupExampleInput2" placeholder="Confirmar Senha"></input>
+                    <input type="password" className="form-control" id="formGroupExampleInput2" placeholder="Confirmar Senha"></input>
                 </div>
                 <Link className='dashbord_link' to='/login'>Já tenho login</Link>
                 <button type="submit" className="btn btn-primary login-div">Cadastrar</button>

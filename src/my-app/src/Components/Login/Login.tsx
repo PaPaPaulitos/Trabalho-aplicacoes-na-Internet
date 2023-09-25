@@ -14,7 +14,7 @@ function Login() {
                     <input type="text" className="form-control" id="formGroupExampleInput" placeholder="Email"></input>
                 </div>
                     <div className="form-group">
-                    <input type="text" className="form-control" id="formGroupExampleInput2" placeholder="Senha"></input>
+                    <input type="password" className="form-control" id="formGroupExampleInput2" placeholder="Senha"></input>
                 </div>
                 <Link className='dashbord_link' to='/register'>Não tenho cadastro</Link>
                 <button type="submit" className="btn btn-primary login-div">Entrar</button>
