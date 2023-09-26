@@ -1,3 +1,3 @@
 # Register
 
-É o cliente faz registro no site
+É onde o cliente faz registro no site

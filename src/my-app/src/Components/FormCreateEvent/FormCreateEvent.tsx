@@ -5,10 +5,15 @@ import img from "../../img/evento-image.jpg"
 import './FormCreateEvent.css';
 
 
+
+  
+
+
+
 function FromCreateEvent() {
     return (
         <div className='container'>
-            <form action="" method="post">
+            <form id="formulario_criar_evento">
                 <label htmlFor="createEvent" className='label_form lateral'>Nome do Evento:</label>
                 <br/>
                 <input type="text" name="nome_evento" id="nome_evento" className='text_form' />
