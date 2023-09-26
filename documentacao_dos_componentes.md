@@ -15,3 +15,4 @@ Dentro de cada componente do *React* tem um arquivo README.md que mostra para qu
 - [Meus Eventos](./src/my-app/src/Components/MyEvents/README.md)
 - [Parallax](./src/my-app/src/Components/Parralax/README.md)
 - [Registro](./src/my-app/src/Components/Register/README.md)
+- [Message](./src/my-app/src/Components/Message/README.md)
