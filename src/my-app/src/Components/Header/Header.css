@@ -28,3 +28,7 @@
   height: 15vh;
   justify-content: left;
 }
+
+.menu-layer {
+  z-index: 2;
+}
