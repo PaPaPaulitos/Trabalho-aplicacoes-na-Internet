@@ -2,7 +2,7 @@ import React from 'react';
 import './Header.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Link } from 'react-router-dom';
-import img  from '../../img/logo.png';
+import img  from '../../img/logo.svg';
 import { useState } from 'react';
 
 function Header() {
