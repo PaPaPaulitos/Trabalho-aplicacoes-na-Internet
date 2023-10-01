@@ -85,6 +85,7 @@ input[type="radio"]{
     margin-top: 10px;
     margin-bottom: 10px;
     background-color: #000;
+    
 }
 
 input[type="radio"]:checked{
