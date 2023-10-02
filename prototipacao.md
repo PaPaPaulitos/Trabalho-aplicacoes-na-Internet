@@ -4,6 +4,11 @@
 
 Você pode ver o diagrama melhor [Clicando aqui](https://whimsical.com/a1-aplicacoes-na-internet-5N2p2ibDLr4qS6VYoSk27h)
 
+
+> Caso queira ver do seu telefone escaneie o QR Code:
+
+![QR Code Whimsical](./Imagens/qr_code_whimsical.jpg)
+
 ![Diagrama de Navegabilidade](./Imagens/A1_Aplicações_na_Internet.png)
 
 ---
@@ -12,7 +17,11 @@ Você pode ver o diagrama melhor [Clicando aqui](https://whimsical.com/a1-aplica
 
 ### Pagina Inicial
 
-Você pode ver melhor as telas do evento [Clicando aqui](https://www.figma.com/file/AMb6NqrFlXpZQ2nmInx25k/A1_aplica%C3%A7%C3%B5es-na-internet?type=design&node-id=9%3A27&mode=design&t=rliAOO6vqf8c0NGC-1)
+Você pode ver melhor as telas do evento [Clicando aqui](https://www.figma.com/proto/AMb6NqrFlXpZQ2nmInx25k/A1_aplica%C3%A7%C3%B5es-na-internet?type=design&node-id=19-88&t=G2kjd8G9m8bH4TMW-1&scaling=scale-down&page-id=19%3A56&starting-point-node-id=19%3A88&mode=design)
+
+> Caso queira ver do seu telefone escaneie o QR Code:
+
+![QR Code Figma](./Imagens/qr_code_figma.jpg)
 
 ![Página Inicial](./Imagens/Pagina%20Inicial.svg)
 
