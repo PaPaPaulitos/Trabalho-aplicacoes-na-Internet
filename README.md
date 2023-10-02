@@ -4,6 +4,7 @@
 
 [Clique aqui para ver a aplicação rodando](https://youtu.be/P4swkfj2D_8)
 
+> [Clique aqui para a ver a apresentação do trabalho](https://www.canva.com/design/DAFwDR8Tg2E/_FZ9FWU5yZVTzcFVsuWIZg/edit?utm_content=DAFwDR8Tg2E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Minimundo
 
