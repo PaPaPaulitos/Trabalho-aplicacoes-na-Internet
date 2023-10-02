@@ -7,7 +7,7 @@ Você pode ver o diagrama melhor [Clicando aqui](https://whimsical.com/a1-aplica
 
 > Caso queira ver do seu telefone escaneie o QR Code:
 
-![QR Code Whimsical](./Imagens/qr_code_whimsical.jpg)
+<img src="./Imagens/qr_code_whimsical.jpg" width="250px" style="display: block; margin: 0 auto;">
 
 ![Diagrama de Navegabilidade](./Imagens/A1_Aplicações_na_Internet.png)
 
@@ -21,7 +21,7 @@ Você pode ver melhor as telas do evento [Clicando aqui](https://www.figma.com/p
 
 > Caso queira ver do seu telefone escaneie o QR Code:
 
-![QR Code Figma](./Imagens/qr_code_figma.jpg)
+<img src="./Imagens/qr_code_figma.jpg" width="250px" style="display: block; margin: 0 auto;">
 
 ![Página Inicial](./Imagens/Pagina%20Inicial.svg)
 
