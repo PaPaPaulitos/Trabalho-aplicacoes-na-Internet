@@ -18,6 +18,11 @@ Um grupo de 4 amigos se juntou para criar uma Startup de eventos para todos os t
 - [Prototipação](./prototipacao.md)
 - [Documentação dos componentens](./documentacao_dos_componentes.md)
 
+## Integrantes
+
+PAULO RICARDO MESQUITA ROSA SANTOS - 1210201039
+BERNARDO GONÇALVES SPINELLI MARTINS - 1210103195
+PAULO CESAR MARINHO DOS SANTOS - 1220200031
 
 ---
 
